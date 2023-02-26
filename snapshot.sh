@@ -13,7 +13,8 @@ Example:
          snapshot.sh root@www.myweb.org:/ /backup/myweb/ 15 bidaily '--include /home --include /var --include /etc --include /root --exclude /\* --exclude /var/log'
          * the above case will only backup home,var,etc and root folder and exclude all of others
 
-Author: Xinbin Dai  The Samuel Roberts Noble Foundation, Ardmore, OK, USA;
+Author: Xinbin Dai
+
 Last modification date: Mar/6/2012.
 "
 
